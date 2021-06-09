@@ -1,5 +1,5 @@
 # Youtube Trending Videos Dashboard
- [Click this link to see the Dashbaord](https://public.tableau.com/views/DashboardforMelanieandAshok/Trending-VideoHistory?:language=en-US&:display_count=n&:origin=viz_share_link)
+ [Click this link to see the Dashboard](https://public.tableau.com/views/DashboardforMelanieandAshok/Trending-VideoHistory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 | Project Description | Software Used | Source of Data |
 | :---------------------- | :---------------------- | :---------------------- | 
